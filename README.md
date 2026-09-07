@@ -1,2 +1,0 @@
-# fastbet
-fastbet site
